@@ -1,0 +1,15 @@
+{
+    "firstName": "anuja",
+    "lastName": "harane",
+    "gender": "female",
+    "age": 24,
+    "address": {
+        "streetAddress": "vrundavan nagar",
+        "city": "khopoli",
+        "state": "MH",
+        "postalCode": "410203"
+    },
+    "phoneNumbers": [
+        { "type": "mobile", "number": "7383627627" }
+    ]
+}
